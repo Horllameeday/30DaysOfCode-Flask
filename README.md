@@ -2,4 +2,4 @@
 
 Day One
 
-URL: 
+URL: https://instinct-ecx-flask.herokuapp.com/
